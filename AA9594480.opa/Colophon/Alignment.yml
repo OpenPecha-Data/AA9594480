@@ -1,0 +1,23 @@
+segment_sources:
+  PA3983F39:
+    type: origin_type
+    relation: translation
+    language: sa
+  P40F62954:
+    type: origin_type
+    relation: translation
+    language: zh
+  P43A2EADA:
+    type: origin_type
+    relation: translation
+    language: bo
+  PC2252D02:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  3266fd0847ce4836a39cd336a91cc704:
+    PA3983F39: b60e5b831f964131a62381176f2e8280
+    P40F62954: 7673e6f83c3545c79d2fee7900dd17bf
+    P43A2EADA: 95773035b3584df0ba94fa3257e61e83
+    PC2252D02: fa14dad62a804b48a3434f4f22bd4623

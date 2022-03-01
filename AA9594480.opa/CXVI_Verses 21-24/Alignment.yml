@@ -1,0 +1,48 @@
+segment_sources:
+  PA3983F39:
+    type: origin_type
+    relation: translation
+    language: sa
+  P40F62954:
+    type: origin_type
+    relation: translation
+    language: zh
+  P43A2EADA:
+    type: origin_type
+    relation: translation
+    language: bo
+  PC2252D02:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  4cd709c4757b40c981bab922f19013b6:
+    PA3983F39: 0783c84484f8444bb597d441ea616650
+    P40F62954: 560667d80d3c4d55bc7686ceec118305
+    P43A2EADA: a8d5a16cf3af4732a5fd66017e64a9e3
+    PC2252D02: c4073c719e1e47c0af36b25434b90410
+  a0c808b1345940a3b3566e45eb404a0a:
+    PA3983F39: 909ad79dde4249a7899d0251cf9eba81
+    P40F62954: 04db1849f7d149a09ef36099471458c2
+    P43A2EADA: c7561e7c68d84def9670d45d7814635a
+    PC2252D02: 88f7b42daf8f4fc2b168f616f827a4fd
+  64e3cf9bc88749158207d36adb1c537b:
+    PA3983F39: 3c07c373997e4b9c895a7a6dd95451e8
+    P40F62954: 57298eb5e7b14f029aa7a13805f3eea9
+    P43A2EADA: ec1936e02c454b3cadffce2ca23d08f6
+    PC2252D02: 47c1b20d9e054e2c851956474ec8dc80
+  fc29b617b04645ee9a640edf723ac7ea:
+    PA3983F39: 96e59b80f3a74f70abbd964ae2ba3bb4
+    P40F62954: 5d94da14d912485aa1a86192ee55d1f7
+    P43A2EADA: 4ba5f33ffc9340e7b25b80072b298ec6
+    PC2252D02: e4e664c74d3b4994b2e4892db90b4694
+  75d4d35b9dd54d9babaf8f10782049bd:
+    PA3983F39: 4803ae2536644c51b660804fb5b64559
+    P40F62954: 5e109cb92e1946b1a49585c36eeb1595
+    P43A2EADA: 330c1e110f714188ae05ce8d4e344fd3
+    PC2252D02: bae27102b06540d7b0f20c65990a7bbb
+  911baad27f2b4b47a9c5839511c56159:
+    PA3983F39: None
+    P40F62954: None
+    P43A2EADA: None
+    PC2252D02: 8094b2e80c82406e8e331d674e32abcb

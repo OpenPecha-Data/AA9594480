@@ -1,0 +1,63 @@
+segment_sources:
+  PA3983F39:
+    type: origin_type
+    relation: translation
+    language: sa
+  P40F62954:
+    type: origin_type
+    relation: translation
+    language: zh
+  P43A2EADA:
+    type: origin_type
+    relation: translation
+    language: bo
+  PC2252D02:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  da135f15cbce418bb209cd83ea183474:
+    PA3983F39: fde18dd5233e4509abbbe0323ba6838f
+    P40F62954: 814b60d3925b49f49fc50e35cd956595
+    P43A2EADA: 05dfa847e898418cbff74996bf8c7de2
+    PC2252D02: 45329e76fc6c406089e831c0cecddb02
+  f3f0174630ad46d38ff3fbe7e97a63df:
+    PA3983F39: e3f43ea53080480ba6765d98c0b3e9a7
+    P40F62954: 304c0e9e8ffc48de84dadeb05a2ed370
+    P43A2EADA: c832663d4cbe4c92830b9eeda9f05b2f
+    PC2252D02: 555922984de84fa6b17106e8c4dca282
+  7f2f8b357c4b4a5ca3168c00e83444c2:
+    PA3983F39: a54ab7e1514f4577adc23ba6ae4fd7fd
+    P40F62954: e1409d16b20c4cc9bf119b02b3671600
+    P43A2EADA: 2ed6d5a69ca844bea426516afcbfb3a8
+    PC2252D02: caef70831a414701aaf3eb2eb919bfd0
+  7c60c00383354f278413e8c5a481bd45:
+    PA3983F39: 887fe65fafdb4772b9807157c2639284
+    P40F62954: 2846a2e8671d48e8b7817304f4c1849f
+    P43A2EADA: 75ae474b1c364c9184a8d5e5843c2ca0
+    PC2252D02: 595bf71931834a61b958b39a26d7f43e
+  f2e332e4426b4f66b389d1cc5c9c199d:
+    PA3983F39: 7d984d9682bd4689a6c997aa7e555708
+    P40F62954: None
+    P43A2EADA: 8c1070afc45a43128744998b6b4ffdb6
+    PC2252D02: aafa34c1afd24d868fede20e04286c37
+  f2100b525eee4f0e99e6651a1dca6580:
+    PA3983F39: e35226ff871c4a9aa11faea3c0b43d67
+    P40F62954: None
+    P43A2EADA: 213580a0d7a847fbb275bdaff1b8ebcc
+    PC2252D02: a7d8de787e1a4d898d3cba0e30f72572
+  d15be03f0ffe4e23aec1502f221468c6:
+    PA3983F39: 22775e8db2454ccf803612f31efaced7
+    P40F62954: None
+    P43A2EADA: 3d16255f101f4883a3501f59d6b63a9f
+    PC2252D02: 36e0cdc265794883abf59033632c050c
+  f4b96a0a1ff94ed8ac69e3451c613006:
+    PA3983F39: 1b779bdb2e254dec8da99db7f9a5b11b
+    P40F62954: None
+    P43A2EADA: 14a4f7f18d0d4a738ad08284de0aedbe
+    PC2252D02: c069ce6454a54fffaa2b7f03791c403f
+  9d62d4e5de02410896963c23437fc70a:
+    PA3983F39: 6399ba59fba54a8aa3f1a5ab741c256d
+    P40F62954: None
+    P43A2EADA: d5d3d1ee86b44d70b675099f9f285296
+    PC2252D02: 93c82db11357408386f9a66bcba1f777
